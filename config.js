@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+917909187006", "+917909187006"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+917909187006", "+917909187006"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+917909187006"];
+global.OwnerName = "✮⃟🍒𝐌͢ɪ̽ᴄ̂ʜ͠ᴜ 𝐒͢ᴇ̂ᴛ̽ᴛ͍̽ᴀ͡ɴ͎⚚⃟🌈";
+global.BotName = "✮⃟🍒𝐌͢ɪ̽ᴄ̂ʜ͠ᴜ 𝐒͢ᴇ̂ᴛ̽ᴛ͍̽ᴀ͡ɴ͎⚚⃟🌈";
+global.packname = "🦋 │✮⃟🍒𝐌͢ɪ̽ᴄ̂ʜ͠ᴜ|𝐒͢ᴇ̂ᴛ̽ᴛ͍̽ᴀ͡ɴ͎⚚⃟🌈│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
+global.author = "✮⃟🍒𝐌͢ɪ̽ᴄ̂ʜ͠ᴜ 𝐒͢ᴇ̂ᴛ̽ᴛ͍̽ᴀ͡ɴ͎⚚⃟🌈";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
